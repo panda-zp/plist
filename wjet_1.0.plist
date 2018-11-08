@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://192.168.43.69:8000/194x194.png</string>
+						<string>https://github.com/panda-zp/plist/raw/master/194x194.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,7 +27,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://192.168.43.69:8000/194x194.png</string>
+						<string>https://github.com/panda-zp/plist/raw/master/194x194.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
